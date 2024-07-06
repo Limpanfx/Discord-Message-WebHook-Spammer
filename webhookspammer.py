@@ -1,7 +1,7 @@
 """
 Credits: Webhook spammer made by andy
-Discord: !ANDY!#0001
-Github: AndyOnTop
+Forked: Forked by Limpan
+
 """
 print("""
                                                                                                  
@@ -10,8 +10,6 @@ print("""
 |__   | |     | . | | -_|  | | | | -_| . |     | . | . | '_|  |__   | . | .'|     |     | -_|  _|
 |_____|_|_|_|_|  _|_|___|  |_____|___|___|__|__|___|___|_,_|  |_____|  _|__,|_|_|_|_|_|_|___|_|  
               |_|                                                   |_|                          
-                                    Made by Andy
-                                  Github: AndyOnTop
 """)
 
 #imports
