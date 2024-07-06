@@ -1,7 +1,6 @@
 """
 Credits: Webhook spammer made by andy
 Forked: Forked by Limpan
-
 """
 print("""
                                                                                                  
