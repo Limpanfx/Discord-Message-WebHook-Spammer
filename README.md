@@ -5,5 +5,6 @@
 - **4. Enter the values.**
 - **5. Let the bot run.**
 
+# Credits:
 - Originally made by: Andy at https://github.com/AndyOnTop/Simple-Discord-WebHook-Spammer
 - Forked by: https://guns.lol/Limpan
