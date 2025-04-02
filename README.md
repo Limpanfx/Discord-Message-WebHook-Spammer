@@ -5,5 +5,5 @@
 - **4. Let the bot run.**
 
 # Credits:
-- Originally made by: Andy at https://github.com/AndyOnTop/Simple-Discord-WebHook-Spammer
-- Forked by: https://guns.lol/Limpan
+- Originally made by: Andy at [github](https://github.com/AndyOnTop/Simple-Discord-WebHook-Spammer)
+- Forked by [me](https://guns.lol/Limpan)
