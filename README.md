@@ -1,9 +1,18 @@
-# How to use:
-- **1. Open the runner batch file.**
-- **2. Create a discord webhook and copy it.**
-- **3. Enter the values.**
-- **4. Let the bot run.**
+# Discord Webhook Message Spammer
 
-# Credits:
-- Originally made by: Andy at [github](https://github.com/AndyOnTop/Simple-Discord-WebHook-Spammer)
-- Forked by [me](https://guns.lol/Limpan)
+A simple tool for sending repeated messages to a Discord channel using a webhook.
+
+## How to use
+
+1. Create a Discord webhook for the channel you want to spam.
+2. Open the `runner` batch file.
+3. Copy the webhook URL.
+4. Run the tool and enter the requested values (webhook URL, message, delay, etc. if prompted).
+5. Let the bot run.
+
+## Credits
+
+- Originally created by Andy:  
+  https://github.com/AndyOnTop/Simple-Discord-WebHook-Spammer
+- Forked and modified by me:  
+  https://guns.lol/Limpan
