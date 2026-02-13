@@ -25,4 +25,3 @@ while True:
     time.sleep(delay)
     webhookurl.send(message)
     print("Sent.")
-
